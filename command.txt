@@ -10,3 +10,8 @@ git push -u origin main
 git remote add origin https://github.com/ezdanapak/R-test.git
 git branch -M main
 git push -u origin main
+
+
+
+https://franciscouzo.github.io/
+https://cran.r-project.org/bin/windows/Rtools/
